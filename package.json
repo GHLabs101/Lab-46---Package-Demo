@@ -1,13 +1,13 @@
 {
-  "name": "@GHLabs101/Lab-46---Package-Demo",
+  "name": "@ghlabs101/lab-46-package-demo",
   "version": "1.0.0",
   "description": "Demo package for GitHub Packages",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/GHLabs101/Lab-46---Package-Demo.git"
+    "url": "https://github.com/ghlabs101/lab-46-package-demo.git"
   },
-  "author": "GH Labs 101",
+  "author": "ghlabs101",
   "license": "MIT",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
